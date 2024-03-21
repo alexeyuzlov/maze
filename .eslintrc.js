@@ -169,7 +169,6 @@ module.exports = {
                 "@typescript-eslint/no-use-before-define": "off",
                 "@typescript-eslint/no-var-requires": "off",
                 "@typescript-eslint/prefer-as-const": "error",
-                "@typescript-eslint/prefer-for-of": "error",
                 "@typescript-eslint/prefer-function-type": "error",
                 "@typescript-eslint/prefer-namespace-keyword": "error",
                 "@typescript-eslint/prefer-regexp-exec": "off",
