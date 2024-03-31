@@ -1,0 +1,37 @@
+@import "~normalize.css";
+
+@import "variables";
+@import "mixins";
+
+@import "parts/reset";
+//other parts here
+
+// latest
+@import "overrides";
+
+.row {
+  display: flex;
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  border: 1px solid #333;
+}
+
+.space {
+  background: #fff;
+}
+
+.wall {
+  background: #ddd;
+}
+
+.path {
+    background: #18ff18;
+}
+
+.start,
+.end {
+    background: #ff1818;
+}
